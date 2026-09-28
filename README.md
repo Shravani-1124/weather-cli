@@ -116,3 +116,4 @@ weather-cli/
 - Add weather icons
 - Add unit selection between Celsius and Fahrenheit
 
+
